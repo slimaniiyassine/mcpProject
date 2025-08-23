@@ -8,7 +8,7 @@ This is an Android application project created to demonstrate mobile development
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisitess
 
 - Android Studio
 - Android SDK
